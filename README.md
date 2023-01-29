@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavyaraghunathcm
-- 👀 I’m interested in Android Programming
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on --
+- 👀 I’m interested in Java Backend
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on --0
 - 📫 How to reach me kavyaraghunathcm@gmail.com
 
 <!---
